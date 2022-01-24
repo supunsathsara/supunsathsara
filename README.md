@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">I'm Supun Sathsara.</h1>
-<h3 align="center">I Don’t Suffer From Insanity. I Enjoy Every Minute Of It.</h3>
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h3 align="center"> 'I Don’t Suffer From Insanity. I Enjoy Every Minute Of It.'</h3>
+<h2 align="center"> 👨‍💻 </h2>
 <p align="center">
   <samp>I'm Savindu Supun Sathsara. I'm still studying for A/l's at Mahinda College Galle. Also I'm doing media translations and subtitle editings. I really like to study on my own and learn by doing something. 
   </samp>
@@ -24,10 +24,12 @@
   <br>[![Website](https://img.shields.io/website?label=supunsathsara.bio.link&url=https%3A%2F%2Fsupunsathsara.bio.link)](https://supunsathsara.bio.link)
 
 - 📫 How to reach me **contact@supunsathsara.com**
+- 🌟 FreeCodeCamp Acc : [supunsathsara](https://www.freecodecamp.org/supunsathsara) <br>
+      <img src="https://img.shields.io/freecodecamp/points/supunsathsara?style=for-the-badge" alt="supunsathsara" />
 
 - 🔑 GPG key hosted here at [GitHub](https://github.com/supunsathsara.gpg) and also [Keybase](https://keybase.io/supunsathsara/pgp_keys.asc), see [Keybase proof](https://gist.github.com/supunsathsara/e990194ee5cd8ddd116d06d6d63b0f1d).
 
-- ⚡ Fun fact **I'm huge DC & a Joker fan**
+- ⚡ Fun fact **I'm a huge DC & a Joker fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +38,10 @@
 <a href="https://stackoverflow.com/users/17653777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17653777" height="30" width="40" /></a>
 <a href="https://fb.com/s.supun.sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s.supun.sathsara" height="30" width="40" /></a>
 <a href="https://instagram.com/s_supun_sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_supun_sathsara" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/supunsathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="supunsathsara" height="30" width="40" /></a>
+<a href="https://m.me/s.supun.sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="s.supun.sathsara" height="30" width="40" /></a>
+<a href="https://t.me/supun_sathsara" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/telegram-app--v1.png" alt="supun_sathsara" height="35" width="35" /></a>
+</p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunsathsara&show_icons=true&locale=en&layout=compact" alt="supunsathsara" /></p>
 
