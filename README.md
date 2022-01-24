@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **contact@supunsathsara.com**
 
-- GPG key hosted here at [GitHub](https://github.com/supunsathsara.gpg) and also [Keybase](https://keybase.io/supunsathsara/pgp_keys.asc), see [Keybase proof](https://gist.github.com/supunsathsara/e990194ee5cd8ddd116d06d6d63b0f1d).
+- 🔑 GPG key hosted here at [GitHub](https://github.com/supunsathsara.gpg) and also [Keybase](https://keybase.io/supunsathsara/pgp_keys.asc), see [Keybase proof](https://gist.github.com/supunsathsara/e990194ee5cd8ddd116d06d6d63b0f1d).
 
 - ⚡ Fun fact **I'm huge DC & a Joker fan**
 
