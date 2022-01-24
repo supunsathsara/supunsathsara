@@ -1,10 +1,16 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">I'm Supun Sathsara.</h1>
 <h3 align="center">I Don’t Suffer From Insanity. I Enjoy Every Minute Of It.</h3>
-
-<p align="left">
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>I'm Savindu Supun Sathsara. I'm still studying for A/l's at Mahinda College Galle. Also I'm doing media translations and subtitle editings. I really like to study on my own and learn by doing something. 
+  </samp>
+  <br>
+  
+<p align="center">
   <img src="https://img.shields.io/github/followers/supunsathsara?style=social" alt="supunsathsara" />
-  <img src="https://komarev.com/ghpvc/?username=supunsathsara&label=Profile%20views&color=0e75b6&style=flat" alt="supunsathsara" /><h6>since 2022.01.24</h6>
+  <img src="https://komarev.com/ghpvc/?username=supunsathsara&label=Profile%20views&color=0e75b6&style=flat" alt="supunsathsara" />
+  <img src="https://img.shields.io/badge/since-2022.01.24-lightgrey?style=plastic" alt="supunsathsara" />
 </p>
 <br>
 <p align="left"> <a href="https://twitter.com/ssupunsathsara" target="blank"><img src="https://img.shields.io/twitter/follow/ssupunsathsara?logo=twitter&style=for-the-badge" alt="ssupunsathsara" /></a> </p>
@@ -12,9 +18,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunsathsara" alt="supunsathsara" /></a> </p>
 
 - 👨‍💻 Personal Website: [www.supunsathsara.com](https://supunsathsara.com) </br>
-   [![Website](https://img.shields.io/website?label=supunsathsara.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://supunsathsara.com)
+   [![Website](https://img.shields.io/website?label=supunsathsara.com&url=https%3A%2F%2Fsupunsathsara.github.io)](https://supunsathsara.com)
+- also check 
+  <br>[![Website](https://img.shields.io/website?label=supunsathsara.github.io&url=https%3A%2F%2Fsupunsathsara.github.io)](https://supunsathsara.github.io)
+  <br>[![Website](https://img.shields.io/website?label=supunsathsara.bio.link&url=https%3A%2F%2Fsupunsathsara.bio.link)](https://supunsathsara.bio.link)
 
 - 📫 How to reach me **contact@supunsathsara.com**
+
+- GPG key hosted here at [GitHub](https://github.com/supunsathsara.gpg) and also [Keybase](https://keybase.io/supunsathsara/pgp_keys.asc), see [Keybase proof](https://gist.github.com/supunsathsara/e990194ee5cd8ddd116d06d6d63b0f1d).
 
 - ⚡ Fun fact **I'm huge DC & a Joker fan**
 
@@ -31,4 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunsathsara&show_icons=true&locale=en" alt="supunsathsara" /></p>
 
-
+<br>
+<img align="right" src="https://img.shields.io/github/last-commit/supunsathsara/supunsathsara?style=plastic" />
