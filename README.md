@@ -41,6 +41,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunsathsara&show_icons=true&locale=en&layout=compact" alt="supunsathsara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunsathsara&show_icons=true&locale=en" alt="supunsathsara" /></p>
+<br>
+
+### ⚡Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <br>
 <img align="right" src="https://img.shields.io/github/last-commit/supunsathsara/supunsathsara?style=plastic" />
