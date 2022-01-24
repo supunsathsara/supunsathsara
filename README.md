@@ -46,7 +46,7 @@
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
 
 <br>
 <img align="right" src="https://img.shields.io/github/last-commit/supunsathsara/supunsathsara?style=plastic" />
