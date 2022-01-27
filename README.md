@@ -50,8 +50,8 @@
 <!--
 ### ⚡Recent Activity-->
 <!--START_SECTION:activity-->
-<!--1. ❗️ Opened issue [#3390](https://github.com/EddieHubCommunity/support/issues/3390) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#1030](https://github.com/EddieHubCommunity/LinkFree/pull/1030) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)-->
+1. ❗️ Opened issue [#3390](https://github.com/EddieHubCommunity/support/issues/3390) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#1030](https://github.com/EddieHubCommunity/LinkFree/pull/1030) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity--> 
 
 
