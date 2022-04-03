@@ -14,9 +14,17 @@
   <img src="https://img.shields.io/badge/since-2022.01.24-lightgrey?style=plastic" alt="supunsathsara" />
 </p>
 <br>
-<p align="left"> <a href="https://twitter.com/ssupunsathsara" target="blank"><img src="https://img.shields.io/twitter/follow/ssupunsathsara?logo=twitter&style=for-the-badge" alt="ssupunsathsara" /></a> </p>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunsathsara" alt="supunsathsara" /></a> </p>
+  <p align="center"> <a href="https://instagram.com/s_supun_sathsara" target="blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Finstagram%2FS_supun_sathsara&query=count&color=282c34&label=Follow+%40s_supun_sathsara&labelColor=d7417b&logo=instagram&logoColor=ffffff&suffix=+follows&cacheSeconds=3600" alt="ssupunsathsara" /></a>
+</p>
+<p align="center"> <a href="https://twitter.com/ssupunsathsara" target="blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Fssupunsathsara&query=count&color=1da1f2&label=Follow+%40ssupunsathsara&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600" /></a> </p>
+
+<hr>
+<details>
+  <summary>𝓖𝓲𝓽𝓱𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 𝓣𝓻𝓸𝓹𝓱𝓲𝓮𝓼!!</summary>
+  <br>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunsathsara"  alt="supunsathsara" /></a> </p>
+</details>  
+<hr>
 
 - 👨‍💻 Personal Website: [www.supunsathsara.com](https://supunsathsara.com) </br>
    [![Website](https://img.shields.io/website?label=supunsathsara.com&url=https%3A%2F%2Fsupunsathsara.github.io)](https://supunsathsara.com)
@@ -28,7 +36,7 @@
 - 🌟 FreeCodeCamp Acc: [supunsathsara](https://www.freecodecamp.org/supunsathsara) <br>
       <img src="https://img.shields.io/freecodecamp/points/supunsathsara?style=for-the-badge" alt="supunsathsara" />
 
-- 🔑 GPG key hosted here at [GitHub](https://github.com/supunsathsara.gpg) and also [Keybase](https://keybase.io/supunsathsara/pgp_keys.asc). See [Keybase proof](https://gist.github.com/supunsathsara/e990194ee5cd8ddd116d06d6d63b0f1d).
+- 🔑 GPG key hosted here at [GitHub](https://github.com/supunsathsara.gpg) and also at [Keybase](https://keybase.io/supunsathsara/pgp_keys.asc). See [Keybase proof](https://gist.github.com/supunsathsara/e990194ee5cd8ddd116d06d6d63b0f1d).
 
 - ⚡ Fun fact: **I'm a huge DC & a Joker fan**
 
