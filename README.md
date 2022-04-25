@@ -27,7 +27,7 @@
 <hr>
 
 - 👨‍💻 Personal Website: [www.supunsathsara.com](https://supunsathsara.com) </br>
-   [![Website](https://img.shields.io/website?label=supunsathsara.com&url=https%3A%2F%2Fsupunsathsara.github.io)](https://supunsathsara.com)
+   [![Website](https://img.shields.io/website?label=supunsathsara.com&url=https%3A%2F%2Fsupunsathsara.com)](https://supunsathsara.com)
 - also check 
   <br>[![Website](https://img.shields.io/website?label=supunsathsara.github.io&url=https%3A%2F%2Fsupunsathsara.github.io)](https://supunsathsara.github.io)
   <br>[![Website](https://img.shields.io/website?label=supunsathsara.bio.link&url=https%3A%2F%2Fsupunsathsara.bio.link)](https://supunsathsara.bio.link)
