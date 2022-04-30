@@ -4,7 +4,7 @@
 <h3 align="center"> 'I Don’t Suffer From Insanity. I Enjoy Every Minute Of It.'</h3>
 <h2 align="center"> 👨‍💻 </h2>
 <p align="center">
-  <samp>I'm Savindu Supun Sathsara. I'm still studying for A/l's at Mahinda College Galle. Also I'm doing media translations and subtitle editings. I really like to study on my own and learn by doing something.
+  <samp>I'm Savindu Supun Sathsara. I'm a Software Engineering student at NIBM Galle. Also I'm doing media translations and subtitle editings. I really like to study on my own and learn by doing something.
   </samp>
   <br>
 
