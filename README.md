@@ -52,7 +52,7 @@
 <a href="https://t.me/supun_sathsara" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/telegram-app--v1.png" alt="supun_sathsara" height="35" width="35" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunsathsara&show_icons=true&locale=en&layout=compact" alt="supunsathsara" /></p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunsathsara&show_icons=true&locale=en&layout=compact)](https://github.com/supunsathsara)  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunsathsara&show_icons=true&locale=en" alt="supunsathsara" /></p>
 <br>
