@@ -51,11 +51,15 @@
 <a href="https://m.me/s.supun.sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="s.supun.sathsara" height="30" width="40" /></a>
 <a href="https://t.me/supun_sathsara" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/telegram-app--v1.png" alt="supun_sathsara" height="35" width="35" /></a>
 </p>
+<hr>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunsathsara&show_icons=true&locale=en&layout=compact)](https://github.com/supunsathsara)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunsathsara&show_icons=true&locale=en" alt="supunsathsara" /></p>
-<br>
+
+![SupunSathsara's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunsathsara&count_private=true&show_icons=true&locale=en&theme=synthwave)
+[![SupunSathsara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supunsathsara&hide=Other&theme=synthwave&hide_progress=true&custom_title=@supunsathsara%27s%20Wakatime%20Stats)](https://wakatime.com/@supunsathsara)
+<img align="right" src="https://wakatime.com/badge/user/1b417bc2-4a98-4d8f-92d8-a0c4f43ae21a.svg" />
+
 
 <br>
 <img align="right" src="https://img.shields.io/github/last-commit/supunsathsara/supunsathsara?style=plastic" />
