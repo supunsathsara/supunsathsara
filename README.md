@@ -58,8 +58,9 @@
 
 ![SupunSathsara's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunsathsara&count_private=true&show_icons=true&locale=en&theme=synthwave)
 [![SupunSathsara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supunsathsara&hide=Other&theme=synthwave&hide_progress=true&custom_title=@supunsathsara%27s%20Wakatime%20Stats)](https://wakatime.com/@supunsathsara)
-<img align="right" src="https://wakatime.com/badge/user/1b417bc2-4a98-4d8f-92d8-a0c4f43ae21a.svg" />
-
+<p align="center">
+<img src="https://wakatime.com/badge/user/1b417bc2-4a98-4d8f-92d8-a0c4f43ae21a.svg" />
+</p>
 
 <br>
 <img align="right" src="https://img.shields.io/github/last-commit/supunsathsara/supunsathsara?style=plastic" />
