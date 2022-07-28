@@ -53,7 +53,7 @@
 </p>
 <hr>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunsathsara&show_icons=true&locale=en&layout=compact)](https://github.com/supunsathsara)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunsathsara&show_icons=true&langs_count=10&locale=en&layout=compact&theme=synthwave)](https://github.com/supunsathsara)  
 
 
 ![SupunSathsara's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunsathsara&count_private=true&show_icons=true&locale=en&theme=synthwave)
