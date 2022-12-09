@@ -4,7 +4,9 @@
 <h3 align="center"> 'I Don’t Suffer From Insanity. I Enjoy Every Minute Of It.'</h3>
 <h2 align="center"> 👨‍💻 </h2>
 <p align="center">
-  <samp>I'm Savindu Supun Sathsara. I'm a Software Engineering student at NIBM Galle. Also I'm doing media translations and subtitle editings. I really like to study on my own and learn by doing something.
+  <samp>I'm Savindu Supun Sathsara, A 20 years old web developer from Sri Lanka. I'm currently a Software Engineering student at NIBM Galle. Also I'm doing media translations and subtitle editing.
+    <br><br>
+    I love to code and I'm always looking for new opportunities to learn and grow. I'm currently working on a few projects and I'm always open to new ideas and collaborations. If you have any questions or want to work with me, feel free to contact me.
   </samp>
   <br>
 
@@ -28,6 +30,7 @@
 
 - 👨‍💻 Personal Website: [www.supunsathsara.com](https://supunsathsara.com) </br>
    [![Website](https://img.shields.io/website?label=supunsathsara.com&url=https%3A%2F%2Fsupunsathsara.com)](https://supunsathsara.com)
+   
 - also check 
   <br>[![Website](https://img.shields.io/website?label=supunsathsara.github.io&url=https%3A%2F%2Fsupunsathsara.github.io)](https://supunsathsara.github.io)
   <br>[![Website](https://img.shields.io/website?label=supunsathsara.bio.link&url=https%3A%2F%2Fsupunsathsara.bio.link)](https://supunsathsara.bio.link)
