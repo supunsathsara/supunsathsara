@@ -7,7 +7,7 @@
 ![Social Card](https://supunsathsara.com/social-card.png)
 
 <p align="center">
-  <samp>I'm Savindu Supun Sathsara, A 20 years old web developer from Sri Lanka. I'm currently a Software Engineering student at NIBM Galle. Also I'm doing media translations and subtitle editing.
+  <samp>I'm Savindu Supun Sathsara, A 21 years old web developer from Sri Lanka. I'm currently a Software Engineering student at NIBM Galle. Also I'm doing media translations and subtitle editing.
     <br><br>
     I love to code and I'm always looking for new opportunities to learn and grow. I'm currently working on a few projects and I'm always open to new ideas and collaborations. If you have any questions or want to work with me, feel free to contact me.
   </samp>
