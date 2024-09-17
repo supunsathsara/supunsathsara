@@ -50,6 +50,12 @@
 </p>
 <br>
 <!--START_SECTION:badges-->
+[![NASA Open Science](https://images.credly.com/size/110x110/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/31e7a45d-2929-4dee-879c-bbf0ff5342b4 "NASA Open Science")
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/fe590fad-d88b-4cda-89cb-d7a2bdcc494e "GitHub Foundations")
+[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/7c9c873a-d7c0-4e1e-8c95-eb0e304b2653 "Cybersecurity Essentials")
+[![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/6856cd98-2445-4d51-8ce6-443d0a3721a3 "Cybersecurity Fundamentals")
+[![Open Source Origin Stories: Adventures in Hybrid Cloud, AI Ethics, and Open Source Technologies](https://images.credly.com/size/110x110/images/0992bc88-c6f6-4137-a60e-10f5190a7ba3/SkillsBuild_Badge_-_Open_Source_Origin_Storie_2048x2048.png)](http://www.credly.com/badges/f00a98e7-2456-4efc-a405-e6c4cb81be63 "Open Source Origin Stories: Adventures in Hybrid Cloud, AI Ethics, and Open Source Technologies")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/4f6f0f48-1d22-492f-91c1-7ed5f52f9ca8 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
 
 ### Connect with me
