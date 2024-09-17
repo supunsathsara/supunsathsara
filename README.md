@@ -16,10 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/supunsathsara?style=social" alt="supunsathsara" />
 </p>
-<br>
-  <p align="center"> <a href="https://instagram.com/s_supun_sathsara" target="blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Finstagram%2FS_supun_sathsara&query=count&color=282c34&label=Follow+%40s_supun_sathsara&labelColor=d7417b&logo=instagram&logoColor=ffffff&suffix=+follows&cacheSeconds=3600" alt="ssupunsathsara" /></a>
-</p>
-<p align="center"> <a href="https://twitter.com/ssupunsathsara" target="blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Fssupunsathsara&query=count&color=1da1f2&label=Follow+%40ssupunsathsara&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600" /></a> </p>
 
 <hr>
 <details>
